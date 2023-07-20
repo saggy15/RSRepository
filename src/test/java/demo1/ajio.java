@@ -12,5 +12,6 @@ public class ajio {
 	 // Assert.fail();
 	  driver.close();
 	  Thread.sleep(5000);
+	  System.out.println("this is ajio website");
   }
 }
